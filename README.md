@@ -42,6 +42,7 @@ System output:
 Web research on latest disease outbreaks
 Summarization into key insights
 Final report saved as a markdown file
+
 📦 Setup Instructions
 Clone the repo and install dependencies:
 pip install -r requirements.txt
